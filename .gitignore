@@ -1,0 +1,6 @@
+*.pt
+*.h5
+*.zip
+*.tar
+*.gz
+__pycache__/
